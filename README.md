@@ -1,2 +1,17 @@
-# salary-prediction-model
-Machine Learning project to predict salary based on years of experience using Linear Regression.
+# Salary Prediction Model
+
+This project predicts salary based on years of experience using Machine Learning.
+
+## Algorithm
+Linear Regression
+
+## Technologies
+Python  
+Pandas  
+Scikit-learn  
+
+## Run
+
+pip install pandas scikit-learn
+
+python salary_prediction.py
